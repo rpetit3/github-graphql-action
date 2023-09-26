@@ -24,7 +24,7 @@ jobs:
       with:
         query: samples/repository-args.query.yaml
         logLevel: debug
-        owner: helaili
+        owner: rpetit3
         name: github-graphql-action
   jq-query:
     runs-on: ubuntu-16.04
